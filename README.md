@@ -15,3 +15,4 @@
 ```
 https://github.com/ManthanUgemuge/WordTypingGame.git
 ```
+- Run Directly - [Play Word Typing Game](https://manthanugemuge.github.io/WordTypingGame/)
