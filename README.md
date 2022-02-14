@@ -13,7 +13,7 @@
 - Download or clone the repository Website : 
 
 ```
-https://github.com/ManthanUgemuge/WordTypingGame.git
+https://github.com/ManthanUgemuge/GradientGenerator.git
 ```
 - Run Directly - [Play Word Typing Game](https://manthanugemuge.github.io/WordTypingGame/)
 
