@@ -16,3 +16,9 @@
 https://github.com/ManthanUgemuge/WordTypingGame.git
 ```
 - Run Directly - [Play Word Typing Game](https://manthanugemuge.github.io/WordTypingGame/)
+
+## Contributing
+Pull requests are welcome, feel free to ```fork``` this repo.
+
+## License
+This project is open-sourced under the [MIT license]().
