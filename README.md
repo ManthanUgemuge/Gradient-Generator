@@ -1,5 +1,6 @@
 # GradientGenerator
 A Simple Website that Genererates Gradient on users input of Colors.
+It is made with help of HTML, CSS & JavaScript.
 
 ## About The Project
 
