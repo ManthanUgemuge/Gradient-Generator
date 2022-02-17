@@ -14,7 +14,6 @@ A Simple Website that Genererates Gradient on users input of Colors.
 ## How to use Project
 
 - Download or clone the repository Website : 
-
 ```
 https://github.com/ManthanUgemuge/GradientGenerator.git
 ```
