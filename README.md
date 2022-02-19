@@ -4,6 +4,7 @@ A Simple Website that is made with help of HTML, CSS & JavaScript.
 
 ## About The Project
 A Simple Website that Genererates Gradient on users input of Colors.
+- Two different input taking is given.
 
 ## Tech Stacks Used
 
