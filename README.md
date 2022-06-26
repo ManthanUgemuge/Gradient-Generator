@@ -1,4 +1,4 @@
-# GradientGenerator
+# Gradient Generator
 
 A Simple Website that is made with help of HTML, CSS & JavaScript.
 
