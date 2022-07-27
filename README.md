@@ -3,7 +3,7 @@
 A Simple Website that is made with help of HTML, CSS & JavaScript.
 
 ## About The Project
-A Simple Website that Genererates Gradient on users input of Colors.
+A Simple Website that generates Gradient on users input of Colors.
 - Two different input taking is given.
 
 ## Tech Stacks Used
@@ -16,9 +16,9 @@ A Simple Website that Genererates Gradient on users input of Colors.
 
 - Download or clone the repository Website : 
 ```
-https://github.com/ManthanUgemuge/GradientGenerator.git
+https://github.com/ManthanUgemuge/Gradient-Generator.git
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/GradientGenerator/)//[Download](https://github.com/ManthanUgemuge/GradientGenerator/archive/refs/heads/main.zip)
+- Run Directly - [Live](https://manthanugemuge.github.io/Gradient-Generator/)//[Download](https://github.com/ManthanUgemuge/Gradient-Generator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
