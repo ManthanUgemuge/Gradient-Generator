@@ -1,6 +1,6 @@
 # Gradient Generator
 
-A Simple Website that is made with help of HTML, CSS & JavaScript.
+A Simple Gradient Generator Website that is made with help of HTML, CSS & JavaScript.
 
 ## About The Project
 A Simple Website that generates Gradient on users input of Colors.
