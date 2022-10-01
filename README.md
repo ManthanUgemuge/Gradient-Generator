@@ -16,9 +16,9 @@ A Simple Website that generates Gradient on users input of Colors.
 
 - Download or clone the repository Website : 
 ```
-https://github.com/manthanugemuge/Gradient-Generator.git
+https://github.com/manthanugemuge/gradient-generator.git
 ```
-- Run Directly - [Live](https://manthanugemuge.github.io/Gradient-Generator/)//[Download](https://github.com/manthanugemuge/Gradient-Generator/archive/refs/heads/main.zip)
+- Run Directly - [Live](https://manthanugemuge.github.io/gradient-generator/)//[Download](https://github.com/manthanugemuge/gradient-generator/archive/refs/heads/main.zip)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
