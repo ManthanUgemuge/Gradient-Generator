@@ -19,10 +19,8 @@ A Simple Website that generates Gradient on users input of Colors.
 https://github.com/manthanugemuge/gradient-generator.git
 ```
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")]() 
-[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")]()
-
- [Live](https://manthanugemuge.github.io/gradient-generator/)//[Download](https://github.com/manthanugemuge/gradient-generator/archive/refs/heads/main.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-navy?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/manthanugemuge/gradient-generator/archive/refs/heads/main.zip) 
+[![Live Demo](https://custom-icon-badges.herokuapp.com/badge/-Live-brightgreen?style=for-the-badge&logo=eye&logoColor=white "Live Demo")](https://manthanugemuge.github.io/gradient-generator/)
 
 ## Contributing
 Pull requests are welcome, feel free to ```fork``` this repo.
