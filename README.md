@@ -4,7 +4,7 @@ A Simple Gradient Generator Website that is made with help of HTML, CSS & JavaSc
 
 ## About The Project
 A Simple Website that generates Gradient on users input of Colors.
-- Two different input taking is given.
+- Two different input slider are given.
 
 ## Tech Stacks Used
 
